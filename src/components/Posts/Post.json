@@ -1,0 +1,39 @@
+
+[
+    {
+      "id": 1,
+      "title": "A changing World Order",
+      "content": "The world order is changing in important ways that have happened many times before in history, though not in our lifetimes. How the world order is changing has created the paradigm that we are in. By “paradigm,” I mean the environment that we are in. Paradigms typically last about 10 years, with occasional big corrections within them. They are driven by a persistent set of conditions that takes those conditions in a swing from one extreme to an opposite extreme. Because of this, each paradigm is more likely to be opposite than similar to the one before it. For example, the Roaring ’20s were followed by the depressionary 1930s, and the inflationary 1970s were followed by the disinflationary 1980s. The assets and liabilities that you would most like to have, and those that you would most like to avoid, change with the paradigm that exists at the time. ",
+      "author": "John Doe",
+      "date": "August 2",
+      "readTime": "2 mins Read",
+      "views": 102
+    },
+    {
+      "id": 2,
+      "title": "New Tech Advancements",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci omnis velit atque consequatur dolorum odit autem ipsam, quas quis laudantium natus. Ipsa eum assumenda, beatae doloremque eligendi aut quisquam vel. Aspernatur voluptatibus voluptas officia tempore iste rem tempora unde et. Delectus sint pariatur ducimus vero culpa, optio voluptate expedita ab nostrum reprehenderit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci omnis velit atque consequatur dolorum odit autem ipsam, quas quis laudantium natus. Ipsa eum assumenda, beatae doloremque eligendi aut quisquam vel. Aspernatur voluptatibus voluptas officia tempore iste rem tempora unde et. Delectus sint pariatur ducimus vero culpa, optio voluptate expedita ab nostrum reprehenderit.Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci omnis velit atque consequatur dolorum odit autem ipsam, quas quis laudantium natus. Ipsa eum assumenda, beatae doloremque eligendi aut quisquam vel. Aspernatur voluptatibus voluptas officia tempore iste rem tempora unde et. Delectus sint pariatur ducimus vero culpa, optio voluptate expedita ab nostrum reprehenderit.",
+      "author": "Tech Enthusiast",
+      "date": "August 5",
+      "readTime": "3 mins Read",
+      "views": 150
+    },
+    {
+      "id": 3,
+      "title": "The Rise of Artificial Intelligence",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus velit, ex unde commodi accusantium repellat, officia soluta itaque qui laborum non ratione saepe possimus corporis necessitatibus distinctio porro impedit modi? Aspernatur voluptatibus voluptas officia tempore iste rem tempora unde et. Delectus sint pariatur ducimus vero culpa, optio voluptate expedita ab nostrum reprehenderit.Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci omnis velit atque consequatur dolorum odit autem ipsam, quas quis laudantium natus. Ipsa eum assumenda, beatae doloremque eligendi aut quisquam vel. Aspernatur voluptatibus voluptas officia tempore iste rem tempora unde et. Delectus sint pariatur ducimus vero culpa, optio voluptate expedita ab nostrum reprehenderit.Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci omnis velit atque consequatur dolorum odit autem ipsam, quas quis laudantium natus. Ipsa eum assumenda, beatae doloremque eligendi aut quisquam vel. Aspernatur voluptatibus voluptas officia tempore iste rem tempora unde et. Delectus sint pariatur ducimus vero culpa, optio voluptate expedita ab nostrum reprehenderit.",
+      "author": "AI Expert",
+      "date": "August 8",
+      "readTime": "4 mins Read",
+      "views": 200
+    },
+    {
+      "id": 4,
+      "title": "Robotic Process Automation (RPA)",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus velit, ex unde commodi accusantium repellat, officia soluta itaque qui laborum non ratione saepe possimus corporis necessitatibus distinctio porro impedit modi? Aspernatur voluptatibus voluptas officia tempore iste rem tempora unde et. Delectus sint pariatur ducimus vero culpa, optio voluptate expedita ab nostrum reprehenderit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus velit, ex unde commodi accusantium repellat, officia soluta itaque qui laborum non ratione saepe possimus corporis necessitatibus distinctio porro impedit modi? Aspernatur voluptatibus voluptas officia tempore iste rem tempora unde et. Delectus sint pariatur ducimus vero culpa, optio voluptate expedita ab nostrum reprehenderit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus velit, ex unde commodi accusantium repellat, officia soluta itaque qui laborum non ratione saepe possimus corporis necessitatibus distinctio porro impedit modi? Aspernatur voluptatibus voluptas officia tempore iste rem tempora unde et. Delectus sint pariatur ducimus vero culpa, optio voluptate expedita ab nostrum reprehenderit.",
+      "author": "AI Expert",
+      "date": "August 28",
+      "readTime": "4 mins Read",
+      "views": 250
+    }
+  ]
